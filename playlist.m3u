@@ -1,0 +1,427 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/sky.de.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/de/tvheute.at.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/ru/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sv/tv.nu.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="",1-2-3.tv
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-logo="https://i.imgur.com/QoDpnKg.png" group-title="Music",Adria Music Television
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="AlexBerlin.de" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="",Alex Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AllgauTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="",Allgau TV
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="",Altenburg TV
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="AnixeHDSerie.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png" group-title="",Anixe HD Serie
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARTEGermany.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="Entertainment",ARTE Germany
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="atv.de" tvg-logo="https://i.imgur.com/tupATym.png" group-title="",a.tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de" tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="",Augsburg TV
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="Auto",Auto Motor und Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+#EXTINF:-1 tvg-id="Babestation24.de" tvg-logo="https://i.imgur.com/Y6uU6fP.png" group-title="XXX",Babestation 24
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="",Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTVSud.de" tvg-logo="https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png" group-title="",Baden TV Sud
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BeybladeBurstGermany.de" tvg-logo="https://i.imgur.com/yaHE8Uj.png" group-title="Kids",Beyblade Burst Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-logo="https://i.imgur.com/lVhxh1R.png" group-title="",Bibel TV
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVImpuls.de" tvg-logo="https://i.imgur.com/k4tbW3W.png" group-title="",Bibel TV Impuls
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVMusik.de" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Music",Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BlazeunddieMonsterMaschinenNickGermany.de" tvg-logo="https://i.imgur.com/mMj4wOj.png" group-title="Kids",Blaze und die Monster-Maschinen Nick Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="BLKRegionalTV.de" tvg-logo="https://i.imgur.com/JLgnPG1.png" group-title="",BLK Regional TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BluesCluesGermany.de" tvg-logo="https://i.imgur.com/sHRHnzf.png" group-title="Kids",Blue's Clues Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/xzJDNs5.png" group-title="",BR Fernsehen Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-logo="https://i.imgur.com/wfqDL6Z.png" group-title="",BR Fernsehen Sud
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de" tvg-logo="https://i.imgur.com/rR44kv4.png" group-title="",DASDING 90.8
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="DaVinci.de" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="",Da Vinci
+http://sc.id-tv.kz/DaVinci_38_39.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Da Vinci Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Music",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-logo="https://i.imgur.com/MGKbHPT.png" group-title="Music",Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic
+https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",DW Deutsch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Deutsch+
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EmmaeinfachmagischNickGermany.de" tvg-logo="https://i.imgur.com/AYlN745.png" group-title="Kids",Emma einfach magisch! Nick Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="emsTVLingen.de" tvg-logo="https://i.imgur.com/Yo1GMku.png" group-title="",ems TV Lingen
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="",Erz-TV Stollberg
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroAlTV.de" tvg-logo="https://i.imgur.com/0GrDAWx.png" group-title="",EuroAl TV
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNGermany.de" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religious",EWTN Germany
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="",Filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="",Finest TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Music",Folx Music Television
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="",Franken Fernsehen
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="h1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/512px-H1-logo.svg.png" group-title="General",h1
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de" tvg-logo="https://i.imgur.com/df3yY8W.png" group-title="",Hamburg 1
+https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Handystar.de" tvg-logo="https://i.imgur.com/oMIygVf.png" group-title="",Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-logo="https://i.imgur.com/7hutYJn.png" group-title="",Hauptstadt.TV
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 tvg-id="HealthTV.de" tvg-logo="https://i.imgur.com/QDUIH2U.png" group-title="Lifestyle",Health TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGerman.de" tvg-logo="https://i.imgur.com/I9BbJR0.png" group-title="Religious",Hope Channel German
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-logo="https://i.imgur.com/SQ18XMT.png" group-title="",HR Fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="HSE.de" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSE24Extra.de" tvg-logo="https://i.imgur.com/JBStmYu.png" group-title="",HSE24 Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSE24Trend.de" tvg-logo="https://i.imgur.com/cWkCWPY.png" group-title="",HSE24 Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="iCarlyGermany.de" tvg-logo="https://i.imgur.com/EHLHuNo.png" group-title="Kids",iCarly Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c53d6ac-a6d2-4c2c-9403-6101f770b205&terminate=false&userId=
+#EXTINF:-1 tvg-id="iCarlyPlusGermany.de" tvg-logo="https://i.imgur.com/Wy73ywD.png" group-title="Kids",iCarly Plus Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId=
+#EXTINF:-1 tvg-id="JenaTV.de" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="",JenaTV
+https://stream4.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24491-2.png" group-title="",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="KanalAvrupa.de" tvg-logo="https://i.imgur.com/dJocxUQ.png" group-title="",Kanal Avrupa
+http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="",KaufBei TV
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://i.imgur.com/sDa6LFn.png" group-title="",KIKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="",KulturMD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KWTVWildau.de" tvg-logo="https://i.imgur.com/zSklDLl.png" group-title="",KW TV Wildau
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="",Lausitzwelle
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24496-1.png" group-title="",L TV
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 tvg-id="MagentaMusik360.de" tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="Music",MagentaMusik 360
+https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-id="MDF1.de" tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="",MDF.1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="",MDR Fernsehen Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="",MDR Fernsehen Sachsen-Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenThuringen.de" tvg-logo="https://i.imgur.com/Vt31dQo.png" group-title="",MDR Fernsehen Thuringen
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="",Munchen TV
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Muxxtv.de" tvg-logo="https://i.imgur.com/bUcXxDh.png" group-title="",Muxx.tv
+https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="MyTVplus.de" tvg-logo="https://i.imgur.com/zA22TQH.png" group-title="Entertainment",MyTVplus
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://i.imgur.com/yVKIUDS.png" group-title="Documentary",N24 Doku
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="naheTV.de" tvg-logo="https://i.imgur.com/w3yzJoK.png" group-title="",naheTV
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenHamburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="",NDR Fernsehen Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="",NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenMecklenburgVorpommern.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="",NDR Fernsehen Mecklenburg-Vorpommern
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenNiedersachsen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="",NDR Fernsehen Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenSchleswigHolstein.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="",NDR Fernsehen Schleswig-Holstein
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="NickGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="Kids",Nick Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="NickRewindGermany.de" tvg-logo="https://i.imgur.com/Bw8rdAb.png" group-title="Kids",NickRewind Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="",Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de" tvg-logo="https://i.imgur.com/mAaIh3C.png" group-title="",Niederbayern TV Deggendorf & Straubing
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-logo="https://i.imgur.com/5sHzZAh.png" group-title="",Niederbayern TV Landshut
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-logo="https://i.imgur.com/0wnFhNi.png" group-title="",Niederbayern TV Passau
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="noa4Hamburg.de" tvg-logo="https://i.imgur.com/7A2LRKI.png" group-title="",noa4 Hamburg
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="noa4Norderstedt.de" tvg-logo="https://i.imgur.com/941nrGb.png" group-title="",noa4 Norderstedt
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="",n-tv
+https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.m3u8
+#EXTINF:-1 tvg-id="OberlausitzTV.de" tvg-logo="https://i.imgur.com/A7WA7dC.png" group-title="",Oberlausitz TV
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Oeins.de" tvg-logo="https://i.imgur.com/bWQifDE.png" group-title="",Oeins
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" group-title="",OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-id="OK4.de" tvg-logo="https://i.imgur.com/cUlMOlt.png" group-title="",OK4
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OK54.de" tvg-logo="https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png" group-title="",OK54
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de" tvg-logo="https://i.imgur.com/nx4Wc8l.png" group-title="",OK Dessau
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKGiessen.de" tvg-logo="https://i.imgur.com/X3JcUGy.png" group-title="",OK Giessen
+https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-logo="https://i.imgur.com/MRrETTh.png" group-title="",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKassel.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" group-title="",OK Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKiel.de" tvg-logo="https://i.imgur.com/eToHabX.png" group-title="",OK Kiel
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-logo="https://i.imgur.com/zftoymR.png" group-title="",OK Magdeburg
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-logo="https://i.imgur.com/QfzdESc.png" group-title="",OK Merseburg-Querfurt
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinLokalWorms.de" tvg-logo="https://i.imgur.com/6tAimWV.png" group-title="",OK RheinLokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinMain.de" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="",OK Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="",OK Salzwedel
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="",OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSuedwestpfalz.de" tvg-logo="https://i.imgur.com/lhlQzLg.png" group-title="",OK Suedwestpfalz
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTrier.de" tvg-logo="https://i.imgur.com/nq32HIs.png" group-title="",OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTVLudwigshafen.de" tvg-logo="https://i.imgur.com/xiDeF8Y.png" group-title="",OK-TV Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTVMainz.de" tvg-logo="https://i.imgur.com/XvK94tN.png" group-title="",OK:TV Mainz
+https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-logo="https://i.imgur.com/bjTajXb.png" group-title="",OK Weinstrasse Neustadt
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de" tvg-logo="https://i.imgur.com/3gQvhSy.png" group-title="",OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="oldenburgeins.de" tvg-logo="https://i.imgur.com/HQs5No3.png" group-title="",oldenburg eins
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-logo="https://i.imgur.com/U1D7l6K.png" group-title="",One
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-logo="https://i.imgur.com/dLgoKJ0.png" group-title="Music",One Music Television
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 1
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 2
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 3
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 4
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimalsGermany.de" tvg-logo="https://i.imgur.com/SMQxSV6.png" group-title="Documentary",Pluto TV Animals Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ae7b456c8cf265ce922&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=301&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVHistoryGermany.de" tvg-logo="https://i.imgur.com/c2s1EA3.png" group-title="Documentary",Pluto TV History Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b1c126c65d0a307355f&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=302&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVInsideGermany.de" tvg-logo="https://i.imgur.com/h6cmLzR.png" group-title="Documentary",Pluto TV Inside Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b4889bca2ce7b73ef2e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=303&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMoviesGermany.de" tvg-logo="https://i.imgur.com/P9Zoa9L.png" group-title="Movies",Pluto TV Movies Germany
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVSitcomsGermany.de" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Comedy",Pluto TV Sitcoms Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cd149f021cb6c55e258bbe8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=375760ce-ac7c-4306-818c-98562edc8da5&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSpongeBobSchwammkopf.de" tvg-logo="https://i.imgur.com/8gR5jPf.png" group-title="Kids",Pluto TV SpongeBob Schwammkopf
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d00e8adaab96b5635b2a005&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=248&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSurfGermany.de" tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="Sports",Pluto TV Surf Germany
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVVictorious.de" tvg-logo="https://i.imgur.com/541iubn.png" group-title="",Pluto TV Victorious
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PUNKTum.de" tvg-logo="https://i.imgur.com/j1RHJQm.png" group-title="",PUNKTum
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC2Germany.de" tvg-logo="https://i.imgur.com/27G7AoH.png" group-title="Shop",QVC2 Germany
+http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="QVCGermany.de" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC Germany
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="QVCStyleGermany.de" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shop",QVC Style Germany
+http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="Radio21TV.de" tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="Music",Radio 21 TV
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="",Radio Bremen Fernsehen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Music",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.de" tvg-logo="https://i.imgur.com/IPVXJ9y.png" group-title="Movies",Rakuten TV Action Movies Germany
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.de" tvg-logo="https://i.imgur.com/ZeKvu3l.png" group-title="Movies",Rakuten TV Comedy Movies Germany
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.de" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten TV Spotlight Germany
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="",RAN1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBBBerlin.de" tvg-logo="https://i.imgur.com/1h6Kfli.png" group-title="",RBB Berlin
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:-1 tvg-id="RBBBrandenburg.de" tvg-logo="https://i.imgur.com/mxmQmfQ.png" group-title="",RBB Brandenburg
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="",RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVSchwaben.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="",Regio TV Schwaben
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="",Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RennsteigTV.de" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="",Rennsteig TV
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="",RFH
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFHHarz.de" tvg-logo="https://i.imgur.com/CsLAH85.png" group-title="",RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFORosenheim.de" tvg-logo="https://i.imgur.com/e5BIHz8.png" group-title="",RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RheinMainTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24539-1.png" group-title="",RheinMain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RNF.de" tvg-logo="https://i.imgur.com/CRk9usN.png" group-title="",RNF
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="",Rock Antenne
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="RocklandTV.de" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="",Rockland TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de" tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="News",RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="",Saarland Fernsehen 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="",Saarland Fernsehen 2
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenEins.de" tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="",Sachsen Eins
+http://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="",Sachsen Fernsehen Chemnitz
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de" tvg-logo="https://i.imgur.com/rnvprGj.png" group-title="",Sachsen Fernsehen Dresden
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="",Sachsen Fernsehen Leipzig
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenVogtland.de" tvg-logo="https://i.imgur.com/s6LluNe.png" group-title="",Sachsen Fernsehen Vogtland
+http://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-logo="https://i.imgur.com/p0W050H.png" group-title="",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="",Seenluft24
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="ServusTVGermany.de" tvg-logo="https://i.imgur.com/yRKZCUL.png" group-title="Movies",ServusTV Germany
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
+#EXTINF:-1 tvg-id="SonusFM.de" tvg-logo="https://i.imgur.com/h29rUcG.png" group-title="",Sonus FM
+https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de" tvg-logo="https://i.imgur.com/1hNgHbB.png" group-title="Religious",Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVEspanol.de" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="",Sophia TV Espanol
+https://www.onairport.live/sophiatv-es-live/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.de" tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="Sports",Sport 1
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+#EXTINF:-1 tvg-id="SRF.de" tvg-logo="https://i.imgur.com/92XNBmr.png" group-title="General",SRF
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png" group-title="",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="",SWR 3 Visual Radio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-logo="https://i.imgur.com/nEqGaWW.png" group-title="",SWR Fernsehen Baden-Wurttemberg
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-logo="https://i.imgur.com/h44EBSJ.png" group-title="",SWR Fernsehen Rheinland-Pfalz
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="Sylt1.de" tvg-logo="https://i.imgur.com/2Wh8OS5.png" group-title="",Sylt1
+https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="TastemadeGermany.de" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Germany
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeenNickGermany.de" tvg-logo="https://i.imgur.com/VTWleRc.png" group-title="Kids",TeenNick Germany
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="TeinsTV.de" tvg-logo="https://i.imgur.com/gMMk5TU.png" group-title="",Teins TV
+https://live1.markenfunk.com/t1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="",Tide TV
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tiviTURK.de" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="",tiviTURK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="TVA.de" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="",TVA
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png" group-title="",TV Berlin
+https://live2.telvi.de/hls/tvberlin.m3u8
+#EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="",TV Ingolstadt
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="",TV Mainfranken
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMittelrhein.de" tvg-logo="https://i.imgur.com/3Zic2AR.png" group-title="",TV Mittelrhein
+https://live2.telvi.de/hls/tvm_hd720.m3u8
+#EXTINF:-1 tvg-id="TVOberfranken.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24580-1.png" group-title="",TV Oberfranken
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Music",Volksmusik TV
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="",WDR 1 Live
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenAachen.de" tvg-logo="https://i.imgur.com/EvZh6V3.png" group-title="",WDR Fernsehen Aachen
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenBielefeld.de" tvg-logo="https://i.imgur.com/rhjEvwR.png" group-title="",WDR Fernsehen Bielefeld
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenBonn.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Bonn
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Dortmund
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Dusseldorf
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Essen
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenKoln.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Koln
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenMunster.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Munster
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenSiegen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Siegen
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenWuppertal.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="",WDR Fernsehen Wuppertal
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1 tvg-id="Welt.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="News",Welt
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="",Welt der Wunder TV
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="Wir24TV.de" tvg-logo="https://i.imgur.com/wvEtGOX.png" group-title="General",Wir24 TV
+https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="WWTV.de" tvg-logo="https://i.imgur.com/MefGKaz.png" group-title="",WW TV
+https://live2.telvi.de/hls/wwtv_hd720.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Music",Zwei Music Television
+https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
