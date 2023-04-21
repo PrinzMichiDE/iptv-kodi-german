@@ -1,267 +1,267 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="ARD.de" tvg-chno="1" group-title="National" tvg-logo="https://images.zattic.com/logos/2a2a4aee64bbd6f7f817/black/210x120.png", Das Erste HD
-https://telerising.tools.zhort.de/api/zde/live/das_erste_de
+http://telerising.tools.zhort.de/api/zde/live/das_erste_de.m3u8
 #EXTINF:0001 tvg-id="ZDF.de" tvg-chno="2" group-title="National" tvg-logo="https://images.zattic.com/logos/1c78af91516fa9699702/black/210x120.png", ZDF
-https://telerising.tools.zhort.de/api/zde/live/zdf
+http://telerising.tools.zhort.de/api/zde/live/zdf.m3u8
 #EXTINF:0001 tvg-id="Sport1HD.de" tvg-chno="3" group-title="National" tvg-logo="https://images.zattic.com/logos/5e0aa4e78223bf42877d/black/210x120.png", Sport1
-https://telerising.tools.zhort.de/api/zde/live/dsf
+http://telerising.tools.zhort.de/api/zde/live/dsf.m3u8
 #EXTINF:0001 tvg-id="ComedyCentral/VIVA.de" tvg-chno="4" group-title="National" tvg-logo="https://images.zattic.com/logos/fbce53a068a915e32a20/black/210x120.png", Comedy Central
-https://telerising.tools.zhort.de/api/zde/live/comedycentral_de
+http://telerising.tools.zhort.de/api/zde/live/comedycentral_de.m3u8
 #EXTINF:0001 tvg-id="wedo_movies_de" tvg-chno="5" group-title="National" tvg-logo="https://images.zattic.com/logos/d15dc3c49f0593ee2a1d/black/210x120.png", wedo movies HD
-https://telerising.tools.zhort.de/api/zde/live/wedo_movies_de
+http://telerising.tools.zhort.de/api/zde/live/wedo_movies_de.m3u8
 #EXTINF:0001 tvg-id="WELT.de" tvg-chno="6" group-title="National" tvg-logo="https://images.zattic.com/logos/2e460a3011ecd55bd3b9/black/210x120.png", WELT
-https://telerising.tools.zhort.de/api/zde/live/n24
+http://telerising.tools.zhort.de/api/zde/live/n24.m3u8
 #EXTINF:0001 tvg-id="N24Doku.de" tvg-chno="7" group-title="National" tvg-logo="https://images.zattic.com/logos/31c604ec54801361931e/black/210x120.png", N24 Doku
-https://telerising.tools.zhort.de/api/zde/live/n24_doku
+http://telerising.tools.zhort.de/api/zde/live/n24_doku.m3u8
 #EXTINF:0001 tvg-id="wedo_big_docs_de" tvg-chno="8" group-title="National" tvg-logo="https://images.zattic.com/logos/9add74ca9535ca8dcc11/black/210x120.png", wedo big stories HD
-https://telerising.tools.zhort.de/api/zde/live/wedo_big_docs_de
+http://telerising.tools.zhort.de/api/zde/live/wedo_big_docs_de.m3u8
 #EXTINF:0001 tvg-id="eotv" tvg-chno="9" group-title="National" tvg-logo="https://images.zattic.com/logos/f66cc51a21baf3a85c1e/black/210x120.png", More Than Sports TV
-https://telerising.tools.zhort.de/api/zde/live/eotv
+http://telerising.tools.zhort.de/api/zde/live/eotv.m3u8
 #EXTINF:0001 tvg-id="world_of_freesports_de" tvg-chno="10" group-title="National" tvg-logo="https://images.zattic.com/logos/a96684a9f0e07a7a0587/black/210x120.png", World of Freesports HD
-https://telerising.tools.zhort.de/api/zde/live/world_of_freesports_de
+http://telerising.tools.zhort.de/api/zde/live/world_of_freesports_de.m3u8
 #EXTINF:0001 tvg-id="beauty_tv_de" tvg-chno="11" group-title="National" tvg-logo="https://images.zattic.com/logos/0a3d73fa41a46e73e4f5/black/210x120.png", Beauty TV HD
-https://telerising.tools.zhort.de/api/zde/live/beauty_tv_de
+http://telerising.tools.zhort.de/api/zde/live/beauty_tv_de.m3u8
 #EXTINF:0001 tvg-id="Tele5.de" tvg-chno="12" group-title="National" tvg-logo="https://images.zattic.com/logos/5943872acee0e8f2f5aa/black/210x120.png", TELE 5
-https://telerising.tools.zhort.de/api/zde/live/tele-5
+http://telerising.tools.zhort.de/api/zde/live/tele-5.m3u8
 #EXTINF:0001 tvg-id="Nickelodeon.de" tvg-chno="13" group-title="National" tvg-logo="https://images.zattic.com/logos/cbf6819592c9d7cb6ec4/black/210x120.png", Nick/CC+1
-https://telerising.tools.zhort.de/api/zde/live/nickelodeon
+http://telerising.tools.zhort.de/api/zde/live/nickelodeon.m3u8
 #EXTINF:0001 tvg-id="Kika.de" tvg-chno="14" group-title="National" tvg-logo="https://images.zattic.com/logos/9b95d9cc715ef58dd376/black/210x120.png", KiKA
-https://telerising.tools.zhort.de/api/zde/live/kika
+http://telerising.tools.zhort.de/api/zde/live/kika.m3u8
 #EXTINF:0001 tvg-id="netzkino_fast_de" tvg-chno="15" group-title="National" tvg-logo="https://images.zattic.com/logos/7ea045d9a4f30b48eea0/black/210x120.png", Netzkino HD
-https://telerising.tools.zhort.de/api/zde/live/netzkino_fast_de
+http://telerising.tools.zhort.de/api/zde/live/netzkino_fast_de.m3u8
 #EXTINF:0001 tvg-id="RocketBeans.de" tvg-chno="16" group-title="National" tvg-logo="https://images.zattic.com/logos/0a73da8e0a56256f8bc5/black/210x120.png", Rocket Beans TV HD
-https://telerising.tools.zhort.de/api/zde/live/rocketbeans
+http://telerising.tools.zhort.de/api/zde/live/rocketbeans.m3u8
 #EXTINF:0001 tvg-id="MTVGermany.de" tvg-chno="17" group-title="National" tvg-logo="https://images.zattic.com/logos/b2df118210ce9b74c222/black/210x120.png", MTV Germany
-https://telerising.tools.zhort.de/api/zde/live/mtvgermany
+http://telerising.tools.zhort.de/api/zde/live/mtvgermany.m3u8
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="18" group-title="National" tvg-logo="https://images.zattic.com/logos/cdb16838de2d388a9517/black/210x120.png", 3sat
-https://telerising.tools.zhort.de/api/zde/live/3sat
+http://telerising.tools.zhort.de/api/zde/live/3sat.m3u8
 #EXTINF:0001 tvg-id="filmgold_de" tvg-chno="19" group-title="National" tvg-logo="https://images.zattic.com/logos/1abd13bd0a02ea3a6f04/black/210x120.png", Filmgold HD
-https://telerising.tools.zhort.de/api/zde/live/filmgold_de
+http://telerising.tools.zhort.de/api/zde/live/filmgold_de.m3u8
 #EXTINF:0001 tvg-id="ARTE.de" tvg-chno="20" group-title="National" tvg-logo="https://images.zattic.com/logos/51b7ef98843da07b95a6/black/210x120.png", ARTE HD
-https://telerising.tools.zhort.de/api/zde/live/DE_arte
+http://telerising.tools.zhort.de/api/zde/live/DE_arte.m3u8
 #EXTINF:0001 tvg-id="starke_frauen_de" tvg-chno="21" group-title="National" tvg-logo="https://images.zattic.com/logos/2f586d33b781de1f53fa/black/210x120.png", Starke Frauen HD
-https://telerising.tools.zhort.de/api/zde/live/starke_frauen_de
+http://telerising.tools.zhort.de/api/zde/live/starke_frauen_de.m3u8
 #EXTINF:0001 tvg-id="phoenix.de" tvg-chno="22" group-title="National" tvg-logo="https://images.zattic.com/logos/a0b41e9eea449229f713/black/210x120.png", Phoenix HD
-https://telerising.tools.zhort.de/api/zde/live/phoenix
+http://telerising.tools.zhort.de/api/zde/live/phoenix.m3u8
 #EXTINF:0001 tvg-id="ndrnds.de" tvg-chno="23" group-title="National" tvg-logo="https://images.zattic.com/logos/4e2ccee0055295121b3d/black/210x120.png", NDR Niedersachsen
-https://telerising.tools.zhort.de/api/zde/live/ndr-niedersachsen
+http://telerising.tools.zhort.de/api/zde/live/ndr-niedersachsen.m3u8
 #EXTINF:0001 tvg-id="MDRSachsen.de" tvg-chno="24" group-title="National" tvg-logo="https://images.zattic.com/logos/2577396ca0ddcc51001b/black/210x120.png", MDR SACHSEN
-https://telerising.tools.zhort.de/api/zde/live/mdr-sachsen
+http://telerising.tools.zhort.de/api/zde/live/mdr-sachsen.m3u8
 #EXTINF:0001 tvg-id="WDR.de" tvg-chno="25" group-title="National" tvg-logo="https://images.zattic.com/logos/439ce2df74f3fa3d4a69/black/210x120.png", WDR Köln
-https://telerising.tools.zhort.de/api/zde/live/wdr-koeln
+http://telerising.tools.zhort.de/api/zde/live/wdr-koeln.m3u8
 #EXTINF:0001 tvg-id="BRNord.de" tvg-chno="26" group-title="National" tvg-logo="https://images.zattic.com/logos/1234223128e90c2821ba/black/210x120.png", BR Fernsehen Nord
-https://telerising.tools.zhort.de/api/zde/live/br_nord
+http://telerising.tools.zhort.de/api/zde/live/br_nord.m3u8
 #EXTINF:0001 tvg-id="SWR-rp.de" tvg-chno="27" group-title="National" tvg-logo="https://images.zattic.com/logos/987e4c456d8f24809dcf/black/210x120.png", SWR Fernsehen RP
-https://telerising.tools.zhort.de/api/zde/live/swr-fernsehen-rp
+http://telerising.tools.zhort.de/api/zde/live/swr-fernsehen-rp.m3u8
 #EXTINF:0001 tvg-id="HR.de" tvg-chno="28" group-title="National" tvg-logo="https://images.zattic.com/logos/9fe65023789e1c2a309d/black/210x120.png", HR
-https://telerising.tools.zhort.de/api/zde/live/hr
+http://telerising.tools.zhort.de/api/zde/live/hr.m3u8
 #EXTINF:0001 tvg-id="rbbBerlin.de" tvg-chno="29" group-title="National" tvg-logo="https://images.zattic.com/logos/71371c9cb5a476b92c79/black/210x120.png", rbb Berlin
-https://telerising.tools.zhort.de/api/zde/live/rbb
+http://telerising.tools.zhort.de/api/zde/live/rbb.m3u8
 #EXTINF:0001 tvg-id="SRFernsehen.de" tvg-chno="30" group-title="National" tvg-logo="https://images.zattic.com/logos/7869e2a5ebcb3a0bd88f/black/210x120.png", SR Fernsehen
-https://telerising.tools.zhort.de/api/zde/live/sr-fernsehen
+http://telerising.tools.zhort.de/api/zde/live/sr-fernsehen.m3u8
 #EXTINF:0001 tvg-id="RadioBremen.de" tvg-chno="31" group-title="National" tvg-logo="https://images.zattic.com/logos/bd8b3e0466aca1bd2e3f/black/210x120.png", Radio Bremen TV
-https://telerising.tools.zhort.de/api/zde/live/radio-bremen-tv
+http://telerising.tools.zhort.de/api/zde/live/radio-bremen-tv.m3u8
 #EXTINF:0001 tvg-id="ZDFneo.de" tvg-chno="32" group-title="National" tvg-logo="https://images.zattic.com/logos/665b37ca3ae92be3b53e/black/210x120.png", ZDFneo
-https://telerising.tools.zhort.de/api/zde/live/zdfneo
+http://telerising.tools.zhort.de/api/zde/live/zdfneo.m3u8
 #EXTINF:0001 tvg-id="ServusHD.de" tvg-chno="33" group-title="National" tvg-logo="https://images.zattic.com/logos/62d53de68a761bdd184c/black/210x120.png", Servus TV Deutschland
-https://telerising.tools.zhort.de/api/zde/live/servus_tv
+http://telerising.tools.zhort.de/api/zde/live/servus_tv.m3u8
 #EXTINF:0001 tvg-id="tagesschau24.de" tvg-chno="34" group-title="National" tvg-logo="https://images.zattic.com/logos/13077bf5f6b1fde5aaca/black/210x120.png", tagesschau24 HD
-https://telerising.tools.zhort.de/api/zde/live/einsextra
+http://telerising.tools.zhort.de/api/zde/live/einsextra.m3u8
 #EXTINF:0001 tvg-id="euronewsgerman" tvg-chno="35" group-title="National" tvg-logo="https://images.zattic.com/logos/d41c00a295a1b040afc8/black/210x120.png", Euronews [ger] HD
-https://telerising.tools.zhort.de/api/zde/live/euronewsgerman
+http://telerising.tools.zhort.de/api/zde/live/euronewsgerman.m3u8
 #EXTINF:0001 tvg-id="One.de" tvg-chno="36" group-title="National" tvg-logo="https://images.zattic.com/logos/ab1be7e38940f3ee7d3f/black/210x120.png", ONE HD
-https://telerising.tools.zhort.de/api/zde/live/einsfestival
+http://telerising.tools.zhort.de/api/zde/live/einsfestival.m3u8
 #EXTINF:0001 tvg-id="ZDFinfo.de" tvg-chno="37" group-title="National" tvg-logo="https://images.zattic.com/logos/442cfb9e07792c8ff7bf/black/210x120.png", ZDFinfo
-https://telerising.tools.zhort.de/api/zde/live/zdf-info
+http://telerising.tools.zhort.de/api/zde/live/zdf-info.m3u8
 #EXTINF:0001 tvg-id="ARD-alpha.de" tvg-chno="38" group-title="National" tvg-logo="https://images.zattic.com/logos/e96fafec01ec632f9b38/black/210x120.png", ARD-alpha HD
-https://telerising.tools.zhort.de/api/zde/live/br-alpha
+http://telerising.tools.zhort.de/api/zde/live/br-alpha.m3u8
 #EXTINF:0001 tvg-id="weltderwunder" tvg-chno="39" group-title="National" tvg-logo="https://images.zattic.com/logos/7ba79ea10855c450d5a5/black/210x120.png", Welt der Wunder HD
-https://telerising.tools.zhort.de/api/zde/live/weltderwunder
+http://telerising.tools.zhort.de/api/zde/live/weltderwunder.m3u8
 #EXTINF:0001 tvg-id="RiC.de" tvg-chno="40" group-title="National" tvg-logo="https://images.zattic.com/logos/abebc6ebb54e8734f5fb/black/210x120.png", RiC
-https://telerising.tools.zhort.de/api/zde/live/ric
+http://telerising.tools.zhort.de/api/zde/live/ric.m3u8
 #EXTINF:0001 tvg-id="QS24.ch" tvg-chno="41" group-title="National" tvg-logo="https://images.zattic.com/logos/2fff22bd72078e8361f4/black/210x120.png", QS24
-https://telerising.tools.zhort.de/api/zde/live/qs24_ch
+http://telerising.tools.zhort.de/api/zde/live/qs24_ch.m3u8
 #EXTINF:0001 tvg-id="health_tv_de" tvg-chno="42" group-title="National" tvg-logo="https://images.zattic.com/logos/58d90517c0ad79cc2f56/black/210x120.png", Health.tv HD
-https://telerising.tools.zhort.de/api/zde/live/health_tv_de
+http://telerising.tools.zhort.de/api/zde/live/health_tv_de.m3u8
 #EXTINF:0001 tvg-id="SonnenKlar.de" tvg-chno="43" group-title="National" tvg-logo="https://images.zattic.com/logos/f7c6bbee06f82b7ea818/black/210x120.png", Sonnenklar TV
-https://telerising.tools.zhort.de/api/zde/live/sonnenklartv
+http://telerising.tools.zhort.de/api/zde/live/sonnenklartv.m3u8
 #EXTINF:0001 tvg-id="DAF.de" tvg-chno="44" group-title="National" tvg-logo="https://images.zattic.com/logos/d93accd858d2b3719f3e/black/210x120.png", Der Aktionär TV
-https://telerising.tools.zhort.de/api/zde/live/daf
+http://telerising.tools.zhort.de/api/zde/live/daf.m3u8
 #EXTINF:0001 tvg-id="FashionTV.eu" tvg-chno="45" group-title="National" tvg-logo="https://images.zattic.com/logos/54bd07b87c2d8b0d0523/black/210x120.png", Fashion TV
-https://telerising.tools.zhort.de/api/zde/live/fashiontv
+http://telerising.tools.zhort.de/api/zde/live/fashiontv.m3u8
 #EXTINF:0001 tvg-id="DeLuxeMusic.de" tvg-chno="46" group-title="National" tvg-logo="https://images.zattic.com/logos/b154c144de9f0901831f/black/210x120.png", DELUXE MUSIC
-https://telerising.tools.zhort.de/api/zde/live/deluxe-music
+http://telerising.tools.zhort.de/api/zde/live/deluxe-music.m3u8
 #EXTINF:0001 tvg-id="schlager_deluxe_de" tvg-chno="47" group-title="National" tvg-logo="https://images.zattic.com/logos/5384e5665ac7aa7992ad/black/210x120.png", Schlager Deluxe
-https://telerising.tools.zhort.de/api/zde/live/schlager_deluxe_de
+http://telerising.tools.zhort.de/api/zde/live/schlager_deluxe_de.m3u8
 #EXTINF:0001 tvg-id="DeutschesMusikFernsehen.de" tvg-chno="48" group-title="National" tvg-logo="https://images.zattic.com/logos/15c35ef6d6aca190bba2/black/210x120.png", Deutsches Musik Fernsehen
-https://telerising.tools.zhort.de/api/zde/live/deutschesmusikfernsehen
+http://telerising.tools.zhort.de/api/zde/live/deutschesmusikfernsehen.m3u8
 #EXTINF:0001 tvg-id="FolxTV.de" tvg-chno="49" group-title="National" tvg-logo="https://images.zattic.com/logos/a09d151cc42ea7fd819b/black/210x120.png", Folx TV
-https://telerising.tools.zhort.de/api/zde/live/folx_tv_at
+http://telerising.tools.zhort.de/api/zde/live/folx_tv_at.m3u8
 #EXTINF:0001 tvg-id="one_music_television_de" tvg-chno="50" group-title="National" tvg-logo="https://images.zattic.com/logos/339d832ff703068d94d3/black/210x120.png", One Music Television HD
-https://telerising.tools.zhort.de/api/zde/live/one_music_television_de
+http://telerising.tools.zhort.de/api/zde/live/one_music_television_de.m3u8
 #EXTINF:0001 tvg-id="zwei_music_television_de" tvg-chno="51" group-title="National" tvg-logo="https://images.zattic.com/logos/cf6eb4a8333f85c800fa/black/210x120.png", Zwei Music Television HD
-https://telerising.tools.zhort.de/api/zde/live/zwei_music_television_de
+http://telerising.tools.zhort.de/api/zde/live/zwei_music_television_de.m3u8
 #EXTINF:0001 tvg-id="HSE24.de" tvg-chno="52" group-title="National" tvg-logo="https://images.zattic.com/logos/9d2c562c56b5e17bdad8/black/210x120.png", HSE
-https://telerising.tools.zhort.de/api/zde/live/hse24
+http://telerising.tools.zhort.de/api/zde/live/hse24.m3u8
 #EXTINF:0001 tvg-id="HSE24Extra.de" tvg-chno="53" group-title="National" tvg-logo="https://images.zattic.com/logos/57855537c2f7b3c5426b/black/210x120.png", HSE Extra
-https://telerising.tools.zhort.de/api/zde/live/hse24_extra
+http://telerising.tools.zhort.de/api/zde/live/hse24_extra.m3u8
 #EXTINF:0001 tvg-id="HSE24Trend.de" tvg-chno="54" group-title="National" tvg-logo="https://images.zattic.com/logos/aab20981dfc754f41982/black/210x120.png", HSE Trend
-https://telerising.tools.zhort.de/api/zde/live/hse24_trend
+http://telerising.tools.zhort.de/api/zde/live/hse24_trend.m3u8
 #EXTINF:0001 tvg-id="123.tv.de" tvg-chno="55" group-title="National" tvg-logo="https://images.zattic.com/logos/943691aedd97db674e01/black/210x120.png", 1-2-3 TV
-https://telerising.tools.zhort.de/api/zde/live/123tv
+http://telerising.tools.zhort.de/api/zde/live/123tv.m3u8
 #EXTINF:0001 tvg-id="QVC.de" tvg-chno="56" group-title="National" tvg-logo="https://images.zattic.com/logos/c243485633e327c6d60e/black/210x120.png", QVC
-https://telerising.tools.zhort.de/api/zde/live/qvc_germany
+http://telerising.tools.zhort.de/api/zde/live/qvc_germany.m3u8
 #EXTINF:0001 tvg-id="QVCPlus.de" tvg-chno="57" group-title="National" tvg-logo="https://images.zattic.com/logos/ec2bbe4ffcc3d8229df6/black/210x120.png", QVC ZWEI
-https://telerising.tools.zhort.de/api/zde/live/qvcplus
+http://telerising.tools.zhort.de/api/zde/live/qvcplus.m3u8
 #EXTINF:0001 tvg-id="QVCBeauty.de" tvg-chno="58" group-title="National" tvg-logo="https://images.zattic.com/logos/abff7632fe29928bd9ee/black/210x120.png", QVC STYLE
-https://telerising.tools.zhort.de/api/zde/live/qvc_beauty_de
+http://telerising.tools.zhort.de/api/zde/live/qvc_beauty_de.m3u8
 #EXTINF:0001 tvg-id="Channel21.de" tvg-chno="59" group-title="National" tvg-logo="https://images.zattic.com/logos/23466fd44de29be602e6/black/210x120.png", CHANNEL21
-https://telerising.tools.zhort.de/api/zde/live/channel21
+http://telerising.tools.zhort.de/api/zde/live/channel21.m3u8
 #EXTINF:0001 tvg-id="BibelTV.de" tvg-chno="60" group-title="National" tvg-logo="https://images.zattic.com/logos/adbeea64a39a6dfa0d52/black/210x120.png", Bibel TV
-https://telerising.tools.zhort.de/api/zde/live/bibeltv
+http://telerising.tools.zhort.de/api/zde/live/bibeltv.m3u8
 #EXTINF:0001 tvg-id="BR.de" tvg-chno="61" group-title="Regional" tvg-logo="https://images.zattic.com/logos/cd21116129bf483c6767/black/210x120.png", BR Fernsehen Süd
-https://telerising.tools.zhort.de/api/zde/live/br
+http://telerising.tools.zhort.de/api/zde/live/br.m3u8
 #EXTINF:0001 tvg-id="MDRS-Anhalt.de" tvg-chno="62" group-title="Regional" tvg-logo="https://images.zattic.com/logos/6905c0ca78ffcec7b2af/black/210x120.png", MDR SACHSEN-ANHALT
-https://telerising.tools.zhort.de/api/zde/live/mdr-sachsen-anhalt
+http://telerising.tools.zhort.de/api/zde/live/mdr-sachsen-anhalt.m3u8
 #EXTINF:0001 tvg-id="MDRThuringen.de" tvg-chno="63" group-title="Regional" tvg-logo="https://images.zattic.com/logos/00cac2c6ecebbfb46c67/black/210x120.png", MDR THÜRINGEN
-https://telerising.tools.zhort.de/api/zde/live/mdr-thueringen
+http://telerising.tools.zhort.de/api/zde/live/mdr-thueringen.m3u8
 #EXTINF:0001 tvg-id="ndr.de" tvg-chno="64" group-title="Regional" tvg-logo="https://images.zattic.com/logos/73da715be6dc4fe712f6/black/210x120.png", NDR Hamburg
-https://telerising.tools.zhort.de/api/zde/live/ndr-hamburg
+http://telerising.tools.zhort.de/api/zde/live/ndr-hamburg.m3u8
 #EXTINF:0001 tvg-id="ndrmv.de" tvg-chno="65" group-title="Regional" tvg-logo="https://images.zattic.com/logos/17491a391a25faf6c747/black/210x120.png", NDR Mecklenburg-Vorpommern
-https://telerising.tools.zhort.de/api/zde/live/ndr-mv
+http://telerising.tools.zhort.de/api/zde/live/ndr-mv.m3u8
 #EXTINF:0001 tvg-id="ndrsh.de" tvg-chno="66" group-title="Regional" tvg-logo="https://images.zattic.com/logos/240d2bed9514488bd4c6/black/210x120.png", NDR Schleswig-Holstein
-https://telerising.tools.zhort.de/api/zde/live/ndr-schleswig-holstein
+http://telerising.tools.zhort.de/api/zde/live/ndr-schleswig-holstein.m3u8
 #EXTINF:0001 tvg-id="rbbBrandenburg.de" tvg-chno="67" group-title="Regional" tvg-logo="https://images.zattic.com/logos/e4463292f50778d9b91f/black/210x120.png", rbb Brandenburg
-https://telerising.tools.zhort.de/api/zde/live/rbb-brandenburg
+http://telerising.tools.zhort.de/api/zde/live/rbb-brandenburg.m3u8
 #EXTINF:0001 tvg-id="SWR.de" tvg-chno="68" group-title="Regional" tvg-logo="https://images.zattic.com/logos/8c058b605c5befef0e2c/black/210x120.png", SWR Fernsehen BW
-https://telerising.tools.zhort.de/api/zde/live/swr-fernsehen-bw
+http://telerising.tools.zhort.de/api/zde/live/swr-fernsehen-bw.m3u8
 #EXTINF:0001 tvg-id="WDRAachen.de" tvg-chno="69" group-title="Regional" tvg-logo="https://images.zattic.com/logos/b983587a94de68e5eecb/black/210x120.png", WDR Aachen
-https://telerising.tools.zhort.de/api/zde/live/wdr-aachen
+http://telerising.tools.zhort.de/api/zde/live/wdr-aachen.m3u8
 #EXTINF:0001 tvg-id="WDRBielefeld.de" tvg-chno="70" group-title="Regional" tvg-logo="https://images.zattic.com/logos/da2f7b1155f1c2586f93/black/210x120.png", WDR Bielefeld
-https://telerising.tools.zhort.de/api/zde/live/wdr-bielefeld
+http://telerising.tools.zhort.de/api/zde/live/wdr-bielefeld.m3u8
 #EXTINF:0001 tvg-id="WDRBonn.de" tvg-chno="71" group-title="Regional" tvg-logo="https://images.zattic.com/logos/a33b6a42188e0442f853/black/210x120.png", WDR Bonn
-https://telerising.tools.zhort.de/api/zde/live/wdr-bonn
+http://telerising.tools.zhort.de/api/zde/live/wdr-bonn.m3u8
 #EXTINF:0001 tvg-id="WDRDortmund.de" tvg-chno="72" group-title="Regional" tvg-logo="https://images.zattic.com/logos/28d97fc63e3c394acaf7/black/210x120.png", WDR Dortmund
-https://telerising.tools.zhort.de/api/zde/live/wdr-dortmund
+http://telerising.tools.zhort.de/api/zde/live/wdr-dortmund.m3u8
 #EXTINF:0001 tvg-id="WDRDuesseldorf.de" tvg-chno="73" group-title="Regional" tvg-logo="https://images.zattic.com/logos/1ef59aef430d8cd86b8e/black/210x120.png", WDR Düsseldorf
-https://telerising.tools.zhort.de/api/zde/live/wdr-duesseldorf
+http://telerising.tools.zhort.de/api/zde/live/wdr-duesseldorf.m3u8
 #EXTINF:0001 tvg-id="WDRDuisburg.de" tvg-chno="74" group-title="Regional" tvg-logo="https://images.zattic.com/logos/baefd65a3539bdbf71e9/black/210x120.png", WDR Duisburg
-https://telerising.tools.zhort.de/api/zde/live/wdr-duisburg
+http://telerising.tools.zhort.de/api/zde/live/wdr-duisburg.m3u8
 #EXTINF:0001 tvg-id="WDREssen.de" tvg-chno="75" group-title="Regional" tvg-logo="https://images.zattic.com/logos/e0d9cfa0f0f28a6bd269/black/210x120.png", WDR Essen
-https://telerising.tools.zhort.de/api/zde/live/wdr-essen
+http://telerising.tools.zhort.de/api/zde/live/wdr-essen.m3u8
 #EXTINF:0001 tvg-id="WDRMuenster.de" tvg-chno="76" group-title="Regional" tvg-logo="https://images.zattic.com/logos/b42ab4e535a9a511b451/black/210x120.png", WDR Muenster
-https://telerising.tools.zhort.de/api/zde/live/wdr-muenster
+http://telerising.tools.zhort.de/api/zde/live/wdr-muenster.m3u8
 #EXTINF:0001 tvg-id="WDRSiegen.de" tvg-chno="77" group-title="Regional" tvg-logo="https://images.zattic.com/logos/2569e2d9233dd7681cc0/black/210x120.png", WDR Siegen
-https://telerising.tools.zhort.de/api/zde/live/wdr-siegen
+http://telerising.tools.zhort.de/api/zde/live/wdr-siegen.m3u8
 #EXTINF:0001 tvg-id="WDRWuppertal.de" tvg-chno="78" group-title="Regional" tvg-logo="https://images.zattic.com/logos/042c19a80e2b6cc5d72f/black/210x120.png", WDR Wuppertal
-https://telerising.tools.zhort.de/api/zde/live/wdr-wuppertal
+http://telerising.tools.zhort.de/api/zde/live/wdr-wuppertal.m3u8
 #EXTINF:0001 tvg-id="Saarland1.de" tvg-chno="79" group-title="Regional" tvg-logo="https://images.zattic.com/logos/bd221b94683caf4d6acb/black/210x120.png", Saarland Fernsehen 1
-https://telerising.tools.zhort.de/api/zde/live/saarland_fernsehen1
+http://telerising.tools.zhort.de/api/zde/live/saarland_fernsehen1.m3u8
 #EXTINF:0001 tvg-id="BadenTV.de" tvg-chno="80" group-title="Regional" tvg-logo="https://images.zattic.com/logos/981dcc072e59d07a8497/black/210x120.png", Baden TV
-https://telerising.tools.zhort.de/api/zde/live/baden_tv_de
+http://telerising.tools.zhort.de/api/zde/live/baden_tv_de.m3u8
 #EXTINF:0001 tvg-id="BadenTVSud.de" tvg-chno="81" group-title="Regional" tvg-logo="https://images.zattic.com/logos/336ac9184be71f2dc88c/black/210x120.png", Baden TV Süd HD
-https://telerising.tools.zhort.de/api/zde/live/baden_tv_sued_de
+http://telerising.tools.zhort.de/api/zde/live/baden_tv_sued_de.m3u8
 #EXTINF:0001 tvg-id="a.tv.de" tvg-chno="82" group-title="Regional" tvg-logo="https://images.zattic.com/logos/c4d1c474364d19c59c02/black/210x120.png", a.tv HD
-https://telerising.tools.zhort.de/api/zde/live/a_tv
+http://telerising.tools.zhort.de/api/zde/live/a_tv.m3u8
 #EXTINF:0001 tvg-id="allgaeu_tv_de" tvg-chno="83" group-title="Regional" tvg-logo="https://images.zattic.com/logos/d8494e760e231744b804/black/210x120.png", Allgäu TV HD
-https://telerising.tools.zhort.de/api/zde/live/allgaeu_tv_de
+http://telerising.tools.zhort.de/api/zde/live/allgaeu_tv_de.m3u8
 #EXTINF:0001 tvg-id="FrankenTV.de" tvg-chno="84" group-title="Regional" tvg-logo="https://images.zattic.com/logos/05498e463020ce0fb09a/black/210x120.png", Franken Fernsehen HD
-https://telerising.tools.zhort.de/api/zde/live/franken_fernsehen
+http://telerising.tools.zhort.de/api/zde/live/franken_fernsehen.m3u8
 #EXTINF:0001 tvg-id="MünchenTV.de" tvg-chno="85" group-title="Regional" tvg-logo="https://images.zattic.com/logos/9a283775e35dfd2cc519/black/210x120.png", München TV HD
-https://telerising.tools.zhort.de/api/zde/live/muenchen_tv
+http://telerising.tools.zhort.de/api/zde/live/muenchen_tv.m3u8
 #EXTINF:0001 tvg-id="oberpfalz_tv_de" tvg-chno="86" group-title="Regional" tvg-logo="https://images.zattic.com/logos/042c51cbf82d5f563642/black/210x120.png", Oberpfalz TV HD
-https://telerising.tools.zhort.de/api/zde/live/oberpfalz_tv_de
+http://telerising.tools.zhort.de/api/zde/live/oberpfalz_tv_de.m3u8
 #EXTINF:0001 tvg-id="rfo_de" tvg-chno="87" group-title="Regional" tvg-logo="https://images.zattic.com/logos/5cc52e90c2977a838b5b/black/210x120.png", rfo HD
-https://telerising.tools.zhort.de/api/zde/live/rfo_de
+http://telerising.tools.zhort.de/api/zde/live/rfo_de.m3u8
 #EXTINF:0001 tvg-id="tv_mainfranken_de" tvg-chno="88" group-title="Regional" tvg-logo="https://images.zattic.com/logos/9356d7eb4c752300b337/black/210x120.png", TV Mainfranken HD
-https://telerising.tools.zhort.de/api/zde/live/tv_mainfranken_de
+http://telerising.tools.zhort.de/api/zde/live/tv_mainfranken_de.m3u8
 #EXTINF:0001 tvg-id="tv_oberfranken_de" tvg-chno="89" group-title="Regional" tvg-logo="https://images.zattic.com/logos/fc4f01c743c369d8675e/black/210x120.png", TV Oberfranken HD
-https://telerising.tools.zhort.de/api/zde/live/tv_oberfranken_de
+http://telerising.tools.zhort.de/api/zde/live/tv_oberfranken_de.m3u8
 #EXTINF:0001 tvg-id="tv_ingolstadt_de" tvg-chno="90" group-title="Regional" tvg-logo="https://images.zattic.com/logos/25e9e80df9a363514555/black/210x120.png", TV Ingolstadt HD
-https://telerising.tools.zhort.de/api/zde/live/tv_ingolstadt_de
+http://telerising.tools.zhort.de/api/zde/live/tv_ingolstadt_de.m3u8
 #EXTINF:0001 tvg-id="tva_ostbayern_de" tvg-chno="91" group-title="Regional" tvg-logo="https://images.zattic.com/logos/ad0a6d3907b87e3a47eb/black/210x120.png", TVA Ostbayern HD
-https://telerising.tools.zhort.de/api/zde/live/tva_ostbayern_de
+http://telerising.tools.zhort.de/api/zde/live/tva_ostbayern_de.m3u8
 #EXTINF:0001 tvg-id="niederbayern_tv_deggendorf_de" tvg-chno="92" group-title="Regional" tvg-logo="https://images.zattic.com/logos/3986d4361ff70b0793b7/black/210x120.png", Niederbayern TV Deggendorf-Straubing HD
-https://telerising.tools.zhort.de/api/zde/live/niederbayern_tv_deggendorf_de
+http://telerising.tools.zhort.de/api/zde/live/niederbayern_tv_deggendorf_de.m3u8
 #EXTINF:0001 tvg-id="niederbayern_tv_landshut_de" tvg-chno="93" group-title="Regional" tvg-logo="https://images.zattic.com/logos/831d6640b1c001ba9fa6/black/210x120.png", Niederbayern TV Landshut HD
-https://telerising.tools.zhort.de/api/zde/live/niederbayern_tv_landshut_de
+http://telerising.tools.zhort.de/api/zde/live/niederbayern_tv_landshut_de.m3u8
 #EXTINF:0001 tvg-id="niederbayern_tv_passau_de" tvg-chno="94" group-title="Regional" tvg-logo="https://images.zattic.com/logos/777a432721ddf6ec6fcb/black/210x120.png", Niederbayern TV Passau HD
-https://telerising.tools.zhort.de/api/zde/live/niederbayern_tv_passau_de
+http://telerising.tools.zhort.de/api/zde/live/niederbayern_tv_passau_de.m3u8
 #EXTINF:0001 tvg-id="regio_tv_schwaben_de" tvg-chno="95" group-title="Regional" tvg-logo="https://images.zattic.com/logos/4704bfd1899a3806e93a/black/210x120.png", Regio TV Schwaben HD
-https://telerising.tools.zhort.de/api/zde/live/regio_tv_schwaben_de
+http://telerising.tools.zhort.de/api/zde/live/regio_tv_schwaben_de.m3u8
 #EXTINF:0001 tvg-id="nrwision.de" tvg-chno="96" group-title="Regional" tvg-logo="https://images.zattic.com/logos/62f359e1fca50bbe1f92/black/210x120.png", NRWision
-https://telerising.tools.zhort.de/api/zde/live/nrwision
+http://telerising.tools.zhort.de/api/zde/live/nrwision.m3u8
 #EXTINF:0001 tvg-id="ok4_koblenz_de" tvg-chno="97" group-title="Regional" tvg-logo="https://images.zattic.com/logos/5a909b3a8520810f6b93/black/210x120.png", OK4 HD
-https://telerising.tools.zhort.de/api/zde/live/ok4_koblenz_de
+http://telerising.tools.zhort.de/api/zde/live/ok4_koblenz_de.m3u8
 #EXTINF:0001 tvg-id="ok54_trier_de" tvg-chno="98" group-title="Regional" tvg-logo="https://images.zattic.com/logos/566b683319ee99b2427e/black/210x120.png", OK54 Bürgerrundfunk Trier HD
-https://telerising.tools.zhort.de/api/zde/live/ok54_trier_de
+http://telerising.tools.zhort.de/api/zde/live/ok54_trier_de.m3u8
 #EXTINF:0001 tvg-id="oktv_mainz_de" tvg-chno="99" group-title="Regional" tvg-logo="https://images.zattic.com/logos/5172cd7b8ad68d9c1384/black/210x120.png", OKTV Mainz HD
-https://telerising.tools.zhort.de/api/zde/live/oktv_mainz_de
+http://telerising.tools.zhort.de/api/zde/live/oktv_mainz_de.m3u8
 #EXTINF:0001 tvg-id="ok_kaiserslautern_de" tvg-chno="100" group-title="Regional" tvg-logo="https://images.zattic.com/logos/1fd746d793d7f0a2a5db/black/210x120.png", OK Kaiserslautern HD
-https://telerising.tools.zhort.de/api/zde/live/ok_kaiserslautern_de
+http://telerising.tools.zhort.de/api/zde/live/ok_kaiserslautern_de.m3u8
 #EXTINF:0001 tvg-id="nahe_tv_de" tvg-chno="101" group-title="Regional" tvg-logo="https://images.zattic.com/logos/6687bba886ac258753c1/black/210x120.png", nahe TV HD
-https://telerising.tools.zhort.de/api/zde/live/nahe_tv_de
+http://telerising.tools.zhort.de/api/zde/live/nahe_tv_de.m3u8
 #EXTINF:0001 tvg-id="ok_weinstrasse_de" tvg-chno="102" group-title="Regional" tvg-logo="https://images.zattic.com/logos/341d60df872db3810fa4/black/210x120.png", OK Weinstraße HD
-https://telerising.tools.zhort.de/api/zde/live/ok_weinstrasse_de
+http://telerising.tools.zhort.de/api/zde/live/ok_weinstrasse_de.m3u8
 #EXTINF:0001 tvg-id="oktv_suedwestpfalz_de" tvg-chno="103" group-title="Regional" tvg-logo="https://images.zattic.com/logos/7ce8e23ffb50b578b50f/black/210x120.png", OKTV Südwestpfalz HD
-https://telerising.tools.zhort.de/api/zde/live/oktv_suedwestpfalz_de
+http://telerising.tools.zhort.de/api/zde/live/oktv_suedwestpfalz_de.m3u8
 #EXTINF:0001 tvg-id="rheinlokal_de" tvg-chno="104" group-title="Regional" tvg-logo="https://images.zattic.com/logos/8e6aeed8cde33d68ca1c/black/210x120.png", rheinlOKal HD
-https://telerising.tools.zhort.de/api/zde/live/rheinlokal_de
+http://telerising.tools.zhort.de/api/zde/live/rheinlokal_de.m3u8
 #EXTINF:0001 tvg-id="oktv_ludwigshafen_de" tvg-chno="105" group-title="Regional" tvg-logo="https://images.zattic.com/logos/60a2303d8bd0a8385853/black/210x120.png", OKTV Ludwigshafen HD
-https://telerising.tools.zhort.de/api/zde/live/oktv_ludwigshafen_de
+http://telerising.tools.zhort.de/api/zde/live/oktv_ludwigshafen_de.m3u8
 #EXTINF:0001 tvg-id="mytvplus_de" tvg-chno="106" group-title="Regional" tvg-logo="https://images.zattic.com/logos/f7ce82df9f2cd35df737/black/210x120.png", MyTVplus HD
-https://telerising.tools.zhort.de/api/zde/live/mytvplus_de
+http://telerising.tools.zhort.de/api/zde/live/mytvplus_de.m3u8
 #EXTINF:0001 tvg-id="sachsen_fernsehen_chemnitz_de" tvg-chno="107" group-title="Regional" tvg-logo="https://images.zattic.com/logos/bd0ce7022480a7d5e475/black/210x120.png", Sachsen Fernsehen Chemnitz HD
-https://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_chemnitz_de
+http://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_chemnitz_de.m3u8
 #EXTINF:0001 tvg-id="sachsen_fernsehen_dresden_de" tvg-chno="108" group-title="Regional" tvg-logo="https://images.zattic.com/logos/a0abcb5b8769a884af2c/black/210x120.png", Sachsen Fernsehen Dresden HD
-https://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_dresden_de
+http://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_dresden_de.m3u8
 #EXTINF:0001 tvg-id="sachsen_fernsehen_leipzig_de" tvg-chno="109" group-title="Regional" tvg-logo="https://images.zattic.com/logos/233e5b9b545bc80095b0/black/210x120.png", Sachsen Fernsehen Leipzig HD
-https://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_leipzig_de
+http://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_leipzig_de.m3u8
 #EXTINF:0001 tvg-id="sachsen_fernsehen_vogtland_de" tvg-chno="110" group-title="Regional" tvg-logo="https://images.zattic.com/logos/08fa35d0495ae2d7446a/black/210x120.png", Sachsen Fernsehen Vogtland HD
-https://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_vogtland_de
+http://telerising.tools.zhort.de/api/zde/live/sachsen_fernsehen_vogtland_de.m3u8
 #EXTINF:0001 tvg-id="sachsen_eins_de" tvg-chno="111" group-title="Regional" tvg-logo="https://images.zattic.com/logos/5a616d6327e8b49fcbe1/black/210x120.png", SachsenEins HD
-https://telerising.tools.zhort.de/api/zde/live/sachsen_eins_de
+http://telerising.tools.zhort.de/api/zde/live/sachsen_eins_de.m3u8
 #EXTINF:0001 tvg-id="ORF2Europe.at" tvg-chno="112" group-title="International" tvg-logo="https://images.zattic.com/logos/bc48b8b5bc35b6e09627/black/210x120.png", ORF 2 Europe
-https://telerising.tools.zhort.de/api/zde/live/orf2_europe
+http://telerising.tools.zhort.de/api/zde/live/orf2_europe.m3u8
 #EXTINF:0001 tvg-id="SRFinfo.nws" tvg-chno="113" group-title="International" tvg-logo="https://images.zattic.com/logos/1a451842a885328f94b4/black/210x120.png", SRF info HD
-https://telerising.tools.zhort.de/api/zde/live/sf-info-intl
+http://telerising.tools.zhort.de/api/zde/live/sf-info-intl.m3u8
 #EXTINF:0001 tvg-id="CNN.nws" tvg-chno="114" group-title="International" tvg-logo="https://images.zattic.com/logos/75c2107cbdb11872b382/black/210x120.png", CNN International
-https://telerising.tools.zhort.de/api/zde/live/cnn-international
+http://telerising.tools.zhort.de/api/zde/live/cnn-international.m3u8
 #EXTINF:0001 tvg-id="AlJazeera.nws" tvg-chno="115" group-title="International" tvg-logo="https://images.zattic.com/logos/83f6f5e593e099f75d20/black/210x120.png", Al Jazeera English
-https://telerising.tools.zhort.de/api/zde/live/al-jazeera
+http://telerising.tools.zhort.de/api/zde/live/al-jazeera.m3u8
 #EXTINF:0001 tvg-id="AlJazeeraArabe.nws" tvg-chno="116" group-title="International" tvg-logo="https://images.zattic.com/logos/f2501888da3e47bd2004/black/210x120.png", Al Jazeera
-https://telerising.tools.zhort.de/api/zde/live/al-jazeera-arabic
+http://telerising.tools.zhort.de/api/zde/live/al-jazeera-arabic.m3u8
 #EXTINF:0001 tvg-id="France24fr.fr" tvg-chno="117" group-title="International" tvg-logo="https://images.zattic.com/logos/64a23271e56959ecf49c/black/210x120.png", France 24 [fr]
-https://telerising.tools.zhort.de/api/zde/live/france-24-fr
+http://telerising.tools.zhort.de/api/zde/live/france-24-fr.m3u8
 #EXTINF:0001 tvg-id="France24.fr" tvg-chno="118" group-title="International" tvg-logo="https://images.zattic.com/logos/5aab5d89d511824aed90/black/210x120.png", France 24 [en]
-https://telerising.tools.zhort.de/api/zde/live/france-24-en
+http://telerising.tools.zhort.de/api/zde/live/france-24-en.m3u8
 #EXTINF:0001 tvg-id="Bloomberg.nws" tvg-chno="119" group-title="International" tvg-logo="https://images.zattic.com/logos/7384c0c92348c5d05d07/black/210x120.png", Bloomberg TV
-https://telerising.tools.zhort.de/api/zde/live/bloomberg-europe
+http://telerising.tools.zhort.de/api/zde/live/bloomberg-europe.m3u8
 #EXTINF:0001 tvg-id="bloomberg_quicktake_int" tvg-chno="120" group-title="International" tvg-logo="https://images.zattic.com/logos/b72e0256b91fc267715d/black/210x120.png", Bloomberg Originals HD
-https://telerising.tools.zhort.de/api/zde/live/bloomberg_quicktake_int
+http://telerising.tools.zhort.de/api/zde/live/bloomberg_quicktake_int.m3u8
 #EXTINF:0001 tvg-id="euronews-en" tvg-chno="121" group-title="International" tvg-logo="https://images.zattic.com/logos/36e0b15372fb3db05d98/black/210x120.png", Euronews [en] HD
-https://telerising.tools.zhort.de/api/zde/live/euronews-en
+http://telerising.tools.zhort.de/api/zde/live/euronews-en.m3u8
 #EXTINF:0001 tvg-id="euronews-fr" tvg-chno="122" group-title="International" tvg-logo="https://images.zattic.com/logos/6a1a61d7e20a382776bb/black/210x120.png", Euronews [fr] HD
-https://telerising.tools.zhort.de/api/zde/live/euronews-fr
+http://telerising.tools.zhort.de/api/zde/live/euronews-fr.m3u8
 #EXTINF:0001 tvg-id="euronews_italian" tvg-chno="123" group-title="International" tvg-logo="https://images.zattic.com/logos/befbfb9b5f8c41988f26/black/210x120.png", Euronews [it] HD
-https://telerising.tools.zhort.de/api/zde/live/euronews_italian
+http://telerising.tools.zhort.de/api/zde/live/euronews_italian.m3u8
 #EXTINF:0001 tvg-id="nhk_world_jp" tvg-chno="124" group-title="International" tvg-logo="https://images.zattic.com/logos/ed42dcf5d37c28db040c/black/210x120.png", NHK WORLD-JAPAN HD
-https://telerising.tools.zhort.de/api/zde/live/nhk_world_jp
+http://telerising.tools.zhort.de/api/zde/live/nhk_world_jp.m3u8
 #EXTINF:0001 tvg-id="ArirangTv.kr" tvg-chno="125" group-title="International" tvg-logo="https://images.zattic.com/logos/79418d67a7bd42495d39/black/210x120.png", Arirang TV HD
-https://telerising.tools.zhort.de/api/zde/live/arirang_kr
+http://telerising.tools.zhort.de/api/zde/live/arirang_kr.m3u8
 #EXTINF:0001 tvg-id="wion_int" tvg-chno="126" group-title="International" tvg-logo="https://images.zattic.com/logos/91d2641e6b8b53fbe230/black/210x120.png", WION HD
-https://telerising.tools.zhort.de/api/zde/live/wion_int
+http://telerising.tools.zhort.de/api/zde/live/wion_int.m3u8
 #EXTINF:0001 tvg-id="Sonlife.uk" tvg-chno="127" group-title="International" tvg-logo="https://images.zattic.com/logos/140cc2ccc58fa266cfa2/black/210x120.png", SONLife
-https://telerising.tools.zhort.de/api/zde/live/sonlife
+http://telerising.tools.zhort.de/api/zde/live/sonlife.m3u8
 #EXTINF:0001 tvg-id="GODChannel.eu" tvg-chno="128" group-title="International" tvg-logo="https://images.zattic.com/logos/29a59b8688c583daf281/black/210x120.png", GOD TV
-https://telerising.tools.zhort.de/api/zde/live/god-channel-tv
+http://telerising.tools.zhort.de/api/zde/live/god-channel-tv.m3u8
 #EXTINF:0001 tvg-id="TVE.sp" tvg-chno="129" group-title="International" tvg-logo="https://images.zattic.com/logos/92a377169f1ce2856d9a/black/210x120.png", TVE
-https://telerising.tools.zhort.de/api/zde/live/tve
+http://telerising.tools.zhort.de/api/zde/live/tve.m3u8
 #EXTINF:0001 tvg-id="Canal24Horas.es" tvg-chno="130" group-title="International" tvg-logo="https://images.zattic.com/logos/93b42a0d35defc25ca42/black/210x120.png", 24H
-https://telerising.tools.zhort.de/api/zde/live/canal24horas
+http://telerising.tools.zhort.de/api/zde/live/canal24horas.m3u8
 #EXTINF:0001 tvg-id="1plus1_ua" tvg-chno="131" group-title="Ukrainisch" tvg-logo="https://images.zattic.com/logos/77afdb4a90b49dedba18/black/210x120.png", 1+1
-https://telerising.tools.zhort.de/api/zde/live/1plus1_ua
+http://telerising.tools.zhort.de/api/zde/live/1plus1_ua.m3u8
 #EXTINF:0001 tvg-id="uatv_ua" tvg-chno="132" group-title="Ukrainisch" tvg-logo="https://images.zattic.com/logos/2272fb0ab155762173ac/black/210x120.png", UATV
-https://telerising.tools.zhort.de/api/zde/live/uatv_ua
+http://telerising.tools.zhort.de/api/zde/live/uatv_ua.m3u8
 #EXTINF:0001 tvg-id="espreso_tv_ua" tvg-chno="133" group-title="Ukrainisch" tvg-logo="https://images.zattic.com/logos/b5158e570431e7d173cd/black/210x120.png", Espreso TV
-https://telerising.tools.zhort.de/api/zde/live/espreso_tv_ua
+http://telerising.tools.zhort.de/api/zde/live/espreso_tv_ua.m3u8
