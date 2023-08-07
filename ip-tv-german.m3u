@@ -28,7 +28,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="TV - Fernsehen FREE",WELT
 http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 #EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="TV - Fernsehen FREE",euronews deutsch
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="TV - Fernsehen FREE",Bild
 https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="TV - Fernsehen FREE",Red Bull TV
